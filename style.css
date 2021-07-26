@@ -6,3 +6,11 @@ color:#05b36a;
 .formlabel{
 color:#000000;
 }
+
+
+  }
+.searchTerm{
+  width: 70%;
+  height: 40px;
+  border-radius: 5px;
+}
